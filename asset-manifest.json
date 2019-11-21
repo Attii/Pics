@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Attii/Pics.git/static/css/main.0f0ce5c6.chunk.css",
+    "main.js": "/Attii/Pics.git/static/js/main.f341c3ef.chunk.js",
+    "main.js.map": "/Attii/Pics.git/static/js/main.f341c3ef.chunk.js.map",
+    "runtime-main.js": "/Attii/Pics.git/static/js/runtime-main.8b631784.js",
+    "runtime-main.js.map": "/Attii/Pics.git/static/js/runtime-main.8b631784.js.map",
+    "static/js/2.95487276.chunk.js": "/Attii/Pics.git/static/js/2.95487276.chunk.js",
+    "static/js/2.95487276.chunk.js.map": "/Attii/Pics.git/static/js/2.95487276.chunk.js.map",
+    "index.html": "/Attii/Pics.git/index.html",
+    "precache-manifest.6717a9ca2b3a0779f35458751141bff1.js": "/Attii/Pics.git/precache-manifest.6717a9ca2b3a0779f35458751141bff1.js",
+    "service-worker.js": "/Attii/Pics.git/service-worker.js",
+    "static/css/main.0f0ce5c6.chunk.css.map": "/Attii/Pics.git/static/css/main.0f0ce5c6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b631784.js",
+    "static/js/2.95487276.chunk.js",
+    "static/css/main.0f0ce5c6.chunk.css",
+    "static/js/main.f341c3ef.chunk.js"
+  ]
+}
